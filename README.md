@@ -1,2 +1,2 @@
 # Web Portfolio
- 
+My goal with this web portfolio is to showcase my music by providing links to various releases and projects. I'm also going to use it to link my music related social media accounts and provide my contact information for any music inquiries. I'm going to incorporate CSS to make the layout organized and functional. I want it to be a generally simple layout with a nice vibrant color scheme.
