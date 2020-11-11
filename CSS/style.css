@@ -1,1 +1,99 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 0;
+}
 
+li, a, button{
+    font-family: Verdana;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+button {
+    font-family: Verdana;
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000;
+    text-decoration: none;
+    padding: 9px 25px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover {
+   background-color: rgba(0,136,169,0.8);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 5%;
+    background-color: #000000;
+}
+
+.nav__links{
+    list-style: none;
+}
+
+.nav__links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav__links li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav__links li a:hover {
+    color: #0088a9;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+}
+section
+{
+    width: 100%;
+    min-height: 1000px;
+    margin: 0px;
+
+}
+
+.background {
+  background-color: #85FFBD;
+  background: linear-gradient(#0ccfbe, #986fdb, #608bfc);
+}
+
+.img-squal{
+  width: 450px;
+  margin-left: 15px;
+
+
+}
+h1{
+  margin-top: 0px;
+  margin-left: 50px;
+  font-family: Arial Black;
+  font-size: 50px;
+  color: #FFFFFF;
+
+}
+
+h2{
+  font-family: Arial;
+  font size: 20px;
+}
