@@ -7,19 +7,6 @@
   margin-bottom: 15px;
   padding: 0;
 }
-html, body {
-    width: auto;
-    overflow-x: hidden;
-    overflow-y: scroll;
-}
-
-html {
-    display: table;
-    margin: auto;
-    scroll-behavior: smooth;
-    position: relative;
-    height: 100vh;
-}
 
 li, a, button{
     font-family: Verdana;
