@@ -1,0 +1,4 @@
+This web portfolio is designed to showcase info about me and my music. 
+I added a home page that has an about section and a section that links to my top soundcloud tracks.
+I also added a navbar at the top to link my various streaming platform artist pages and a contact button.
+The contact form currently isn't fully functional, but I plan to add that.
