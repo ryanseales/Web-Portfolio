@@ -40,6 +40,8 @@ header {
     align-items: center;
     padding: 30px 5%;
     background-color: #000000;
+    max-width: 1980px;
+    min-width: 480px;
 }
 
 .nav__links{
@@ -76,6 +78,8 @@ section
 .background {
   background-color: #85FFBD;
   background: linear-gradient(#0ccfbe, #986fdb, #608bfc);
+  max-width: 1980px;
+  min-width: 480px;
 }
 
 .img-squal{
